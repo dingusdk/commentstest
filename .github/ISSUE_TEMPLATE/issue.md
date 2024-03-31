@@ -1,6 +1,6 @@
 ---
 name: Issue
-about: Commenting
+about: Issues only used for commenting - do not continue
 
 ---
 
